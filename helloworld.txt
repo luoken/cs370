@@ -1,0 +1,47 @@
+Ic-g quit
+c-x c-c exit
+c-x c-f opens / "visit" a file
+c-x k kill the buffer representing a file... not deleting a file
+
+c-f move forward one character
+c-b move back
+m-f move forward one word
+m-b move back one word
+
+c-_ undo
+
+c-p previous line
+c-n next line
+c-a move to the beginning of a line
+c-e move to the end of the line
+
+m-< move to beginning of buffer 
+m-> move to the last of the buffer
+
+c-v page down
+m-v page up
+
+c-x 2 splits horizontally
+c-x o other window
+c-x 3 splits vertically
+c-x 1 remove all windows
+
+c-l center the screen 
+
+c-s text <-- search
+c-s Text <-- case sensitive search
+
+c-space <- start / toggle marking a region
+
+m-w copy
+c-y yank/paste
+c-w cut
+c-k kill to end of line
+
+m-x query replace 
+
+hello worldas
+---
+---
+--- asdf
+asdf adsf

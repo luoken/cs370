@@ -1,0 +1,11 @@
+c-x 2 split window hor
+c-x b switch different buffer
+c-x jump to other buffer
+
+m-x shell starts a bash command line
+m-% also m-x query replace 
+m-x replace string
+m-u uppercase
+m-l lower case
+m-c capital
+
